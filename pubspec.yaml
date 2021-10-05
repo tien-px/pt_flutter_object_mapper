@@ -1,0 +1,17 @@
+name: pt_flutter_object_mapper
+description: Object Mapper is a package written in Dart that makes it easy for you to convert your model objects to and from JSON.
+version: 1.0.0+1
+homepage: https://github.com/tienpx-x/pt_flutter_object_mapper
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
